@@ -1,0 +1,11 @@
+.positive,.negative {
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+    font-size: 28px;
+}
+.positive {
+    color: white;
+    background-color: black;
+}
+.negative {
+    background-color: yellow;
+}
